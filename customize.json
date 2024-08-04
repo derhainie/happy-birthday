@@ -1,7 +1,7 @@
 {
   "greeting": "Hi",
   "name": "Jenny",
-  "greetingText": "I really like your name btw!",
+  "greetingText": "Das ist dein Bonus Geschenk!",
   "wishText": "Ich wünsche dir alles Gute zum Geburtstag",
   "imagePath": "img/lydia2.png",
   "text1": "Es ist dein Geburtstag!!! :D",
@@ -14,10 +14,10 @@
   "text5Entry": "Weil,",
   "text5Content": "Du besonders bist",
   "smiley": ":)",
-  "bigTextPart1": "S",
-  "bigTextPart2": "O",
+  "bigTextPart1": "AL",
+  "bigTextPart2": "SO",
   "wishHeading": "Happy Birthday!",
   "outroText": "Okay, ich hoffe es hat es dir gefallen.",
-  "replayText": "Oder du kannst es nochmal abspielen.",
+  "replayText": "Hier kannst du es nochmal abspielen.",
   "outroSmiley": ":)"
 }
