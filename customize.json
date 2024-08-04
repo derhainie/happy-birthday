@@ -1,9 +1,9 @@
-n{
+{
   "greeting": "Hi",
   "name": "Jenny",
   "greetingText": "Das ist dein Bonus Geschenk!",
   "wishText": "Ich wünsche dir alles Gute zum Geburtstag",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "img/jenny.png",
   "text1": "Es ist dein Geburtstag!!! :D",
   "textInChatBox": "Alles Gute dir!! Happy Birthday",
   "sendButtonLabel": "Senden",
